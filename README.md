@@ -22,3 +22,8 @@ This Android application demonstrates biometric authentication using fingerprint
 3. Tap the "Authenticate with Fingerprint" button to initiate authentication.
 4. Follow on-screen prompts to authenticate.
 5. Upon successful authentication, access to the secret activity is granted.
+## Video
+
+
+https://github.com/AshrafGamalG3/Finger-Print/assets/159867026/b2e4d70f-5d22-41e6-b9d5-81c80af3ea47
+
